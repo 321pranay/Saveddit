@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/41994834/133942578-9aad45ee-1ae6-4c72-
 
 ## Installation and Usage
 
-1. Create a new app [on your Reddit account](https://www.reddit.com/prefs/apps/) and set the redirect url to `http://localhost:5000/oauth-redirect`
+1. Create a new app [on your Reddit account](https://www.reddit.com/prefs/apps/) and set the redirect url to `http://localhost:3000`
 2. Copy this application's ID and secret into a new file called `config.txt`. Add `Client ID` in the first line and `Client Secret` in the second line
 3. Create a Python virtual env in root directory and activate it
 4. Install required pip packages by
